@@ -1,4 +1,4 @@
-![Alt text](Recipe_Sharing_App.png)
+![Alt text](Serverless_Recipe_Sharing_App.png)
 
 
 **Project: Deploy a serverless application using AWS CloudFormation**
