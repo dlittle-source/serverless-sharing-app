@@ -26,3 +26,5 @@
 
 8. **AWS API Gateway:**
    - Configured API endpoints to manage and expose application services.
+
+**Repository**: The reference diagram and YAML file for this project are available in the GitHub repository. Please refer to the repository for detailed instructions on deploying the stack.
